@@ -8,9 +8,25 @@ Try Angular 6
 - public/angular
   - angular app dist directory
 
-## Launch Local Server
+
+
+## Launch Local API Server
 ```
-$ cd angular-6-sandbox
 $ npm start
 ```
+
+
+## Launch Local Angular Server
+```
+$ cd angular
+$ ng serve --open
+```
+
+
+## Build Angular App
+```
+$ cd angular
+$ ng build --prod
+```
+
 
